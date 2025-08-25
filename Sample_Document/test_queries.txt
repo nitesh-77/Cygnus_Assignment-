@@ -1,0 +1,36 @@
+1. Apple Business Conduct Policy (PDF)
+What does the policy say about conflicts of interest?
+How should employees report suspected violations?
+Are there any guidelines about gifts and entertainment?
+What rules are mentioned regarding confidential information?
+How does Apple handle government contracting compliance?
+What is Apple’s stance on insider trading?
+Does the policy mention respect for human rights?
+What kind of retaliation protection is given to employees?
+
+
+2. Canon EOS Rebel T3 / 1100D Instruction Manual (PDF)
+What safety precautions are listed for handling the camera?
+How do you attach or remove a camera lens?
+Which shooting modes are available on the dial?
+How can you adjust the ISO setting manually?
+What steps are required to use the self-timer?
+What is the recommended procedure for cleaning the sensor?
+How do you review photos on the LCD screen?
+What should you do if the battery runs out during shooting?
+Is there a guide for troubleshooting autofocus problems?
+How can you enable or disable flash in auto mode?
+
+
+
+3. REST API Markdown Documentation (README.md / API docs)
+What is the base URL for the API endpoints?
+How do you authenticate with the API?
+Can you show an example of a GET request in the docs?
+What response format is returned by default?
+Are there any example error codes listed?
+How do you send parameters in a POST request?
+Is there a rate-limiting policy mentioned?
+How are JSON responses structured in the examples?
+Which HTTP methods are supported for resource creation?
+What is the documented way to update an existing resource?
