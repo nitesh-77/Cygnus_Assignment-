@@ -3,7 +3,7 @@
 A privacy-focused, offline Retrieval-Augmented Generation (RAG) chatbot that answers questions about your documents using local AI models via Ollama.
 
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -34,26 +34,6 @@ A privacy-focused, offline Retrieval-Augmented Generation (RAG) chatbot that ans
    ```
 
 4. **Open your browser** to `http://localhost:8501`
-
-## 📋 Usage
-
-### 1. Upload Documents
-- Click "Browse files" or drag & drop
-- Supports PDF, TXT, and Markdown files
-- Multiple files can be uploaded at once
-
-### 2. Ask Questions
-- Type your question in the chat input
-- The bot will retrieve relevant context and generate answers
-- View performance metrics and sources for each response
-
-### 3. Switch Models
-- Use the sidebar to change between different local models
-- Compare responses from different models
-
-### 4. Manage Data
-- Clear all uploaded data with the "Clear All Data" button
-- Start fresh without losing your Ollama models
 
 ### Core Components
 
